@@ -1,2 +1,2 @@
 # Diabetic-Retinopathy
-To detect Diabetic Retinopathy with 'Image processing' using EfficientNet CNN and Transfer Learning with a PyTorch framework
+To detect Diabetic Retinopathy with 'Image processing' using EfficientNet CNN and Transfer Learning with a PyTorch framework and PIL(Python Imaging Library) for the data in the form of Images and for numerical data we implemented all the basic algorithms of Machine Learning and tested the algorithms with performance metrics such as ROC curve, Accuracy, Precision, Recall and F1_score.
